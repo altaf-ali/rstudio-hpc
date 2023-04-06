@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "rstudio-hpc"
-version = "0.1.0"
+version = "0.1.1"
 homepage = "https://github.com/altaf-ali/rstudio-hpc"
 description = "RStudio Server on high-performance computing clusters."
 authors = ["Altaf Ali <altaf.ali@sanger.ac.uk>"]
